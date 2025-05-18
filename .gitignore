@@ -1,0 +1,13 @@
+# Python files
+__pycache__/
+*.pyc
+*.log
+
+zoo_data.json
+
+# Virtual environment
+venv1/
+
+# IDE files
+.idea/
+.vscode/
