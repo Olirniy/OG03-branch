@@ -3,8 +3,8 @@ def add_numbers(a, b):
 
 def safe_add_numbers():
     try:
-        num1 = float(input("Введите первое число: "))
-        num2 = float(input("Введите второе число: "))
+        num1 = int(input("Введите первое число: "))
+        num2 = int(input("Введите второе число: "))
         result = add_numbers(num1, num2)
         print(f"Результат сложения: {result}")
     except ValueError:
