@@ -3,11 +3,8 @@ __pycache__/
 *.pyc
 *.log
 
-zoo_data.json
-
 # Virtual environment
-venv1/
+venv/
 
 # IDE files
 .idea/
-.vscode/
